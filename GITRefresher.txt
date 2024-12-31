@@ -16,3 +16,4 @@ git remote remove origin : To remove origin
 git push -u origin master
 git branch : To know which branch we are currently on
 git branch <Branch Name> : To Create a new branch/ To Know what branches are present
+git switch <Branch Name> : To Switch between currently present branches
