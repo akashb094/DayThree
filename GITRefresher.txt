@@ -15,4 +15,4 @@ git remote add origin <origin url with token> ex git remote add origin https://g
 git remote remove origin : To remove origin
 git push -u origin master
 git branch : To know which branch we are currently on
-git branch <Branch Name> : To Create a new branch
+git branch <Branch Name> : To Create a new branch/ To Know what branches are present
