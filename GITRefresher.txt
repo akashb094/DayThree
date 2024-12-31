@@ -1,0 +1,15 @@
+Basic Commands for CMD 
+
+1. cd "Directory Name" : To Change the Path in CMD
+2. cd.. : To point the path to the previous position
+3. mkdir "Directory Name" : To Make a New Directory
+
+1. git init : To initialize a new Repo
+2. s
+
+
+
+
+git remote add origin <origin url with token> ex git remote add origin https://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github.com/akashb094/DayThree.git
+git remote remove origin : To remove origin
+git push -u origin/master
