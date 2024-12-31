@@ -13,3 +13,4 @@ Basic Commands for CMD
 git remote add origin <origin url with token> ex git remote add origin https://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github.com/akashb094/DayThree.git
 git remote remove origin : To remove origin
 git push -u origin master
+git branch : To know which branch we are currently on
