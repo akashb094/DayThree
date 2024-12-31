@@ -5,7 +5,8 @@ Basic Commands for CMD
 3. mkdir "Directory Name" : To Make a New Directory
 
 1. git init : To initialize a new Repo
-2. s
+2. git status : To Know which branch we are currently on and to know if GIT is setup in that directory or not
+3. git log : To get the logs of the GIT Commits
 
 
 
